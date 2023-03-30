@@ -3,7 +3,7 @@ name: Clippy
 on:
   push:
     branches:
-      - main
+      - mainDISABLE
   pull_request:
     branches:
       - main
