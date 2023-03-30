@@ -1,8 +1,8 @@
 {
-  "name": "tauri-plugin-presentation-api-api",
-  "version": "0.0.0",
-  "author": "You",
-  "description": "",
+  "name": "tauri-plugin-presentation-api",
+  "version": "1.0.0",
+  "author": "Miniontoby",
+  "description": "Adds the web Presentation API to Tauri",
   "browser": "webview-dist/index.js",
   "main": "webview-dist/index.js",
   "types": "webview-dist/index.d.ts",
