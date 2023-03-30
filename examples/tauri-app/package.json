@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@tauri-apps/api": "^1.2.0",
-    "tauri-plugin-presentation-api-api": "../../"
+    "tauri-plugin-presentation-api": "../../"
   },
   "devDependencies": {
     "@types/node": "^18.7.10",

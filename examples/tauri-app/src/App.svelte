@@ -1,6 +1,4 @@
 <script lang="ts">
-	import { PresentationRequest2 } from 'tauri-plugin-presentation-api-api';
-	globalThis.PresentationRequest = PresentationRequest2;
 	let connection: PresentationConnection|undefined;
 	let presentation: PresentationRequest|undefined;
 	let response = '';
