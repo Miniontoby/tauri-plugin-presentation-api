@@ -1,6 +1,6 @@
 [package]
 name = "tauri-plugin-presentation-api"
-version = "0.0.0"
+version = "1.0.0"
 authors = [ "Miniontoby" ]
 description = "Tauri Plugin to make Web Presentation API work"
 edition = "2021"
