@@ -15,7 +15,6 @@ on:
     paths:
       - "**/Cargo.lock"
       - "**/Cargo.toml"
-  workflow_dispatch:
 
 jobs:
   audit:
@@ -28,6 +27,3 @@ jobs:
     permissions:
       issues: write
       checks: write
-    action-input:
-      input: token
-      is-default: false
