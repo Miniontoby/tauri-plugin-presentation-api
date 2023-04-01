@@ -26,9 +26,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
     permissions:
       issues: write
-      issues-reason: to create issues
       checks: write
-      checks-reason: to create check
     action-input:
       input: token
       is-default: false
