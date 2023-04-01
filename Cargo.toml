@@ -1,8 +1,8 @@
 [package]
 name = "tauri-plugin-presentation-api"
 version = "0.0.0"
-authors = [ "You" ]
-description = ""
+authors = [ "Miniontoby" ]
+description = "Tauri Plugin to make Web Presentation API work"
 edition = "2021"
 rust-version = "1.59"
 exclude = ["/examples", "/webview-dist", "/webview-src", "node_modules"]
